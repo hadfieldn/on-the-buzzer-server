@@ -5,8 +5,8 @@ const WEBSOCKET_EVENTS = require("./events/websocket");
 const WebSocket = require("./WebSocket");
 let server;
 
-const BUTTON_1 = new Button("Button 1", "4C-EF-C0-A6-A8-69");
-const BUTTON_2 = new Button("Button 2", "00-71-47-CB-B6-3D");
+const BUTTON_1 = new Button("Button 1", "00-71-47-EC-56-47");
+const BUTTON_2 = new Button("Button 2", "00-71-47-81-F8-BD");
 
 const buttonsConnected = Promise.all([BUTTON_1.connect(), BUTTON_2.connect()]);
 
