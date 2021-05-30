@@ -12,6 +12,6 @@
     "bluetooth-serial-port": "^2.2.6",
     "prettier": "^1.19.1",
     "uuid": "^3.3.3",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   }
 }
